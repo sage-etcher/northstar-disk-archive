@@ -1,0 +1,8 @@
+
+**.nsi binary
+
+**.asm text eol=crlf
+**.prn text eol=crlf
+**.hex text eol=crlf
+**.com binary
+
